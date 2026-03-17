@@ -4,7 +4,7 @@
 
 Petrol is a Solana-based digital asset designed to power the next generation of decentralized finance and community-driven ecosystems. Built on the Solana blockchain, Petrol delivers fast transactions, low fees, and scalable infrastructure for the future of digital value exchange.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : B6aj8xgq4J9fdRgHcEzy5Woa8ioSs1ERSV13RxJLpump
 ---
 
 ## 🚀 Overview
